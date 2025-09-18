@@ -24,3 +24,4 @@ tokenizers==0.20.1
 tqdm==4.66.5
 typing_extensions==4.12.2
 urllib3==2.2.3
+rich==13.7.1
